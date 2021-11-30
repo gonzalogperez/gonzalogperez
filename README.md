@@ -1,11 +1,14 @@
-### Hi there 👋
-
+### Hi, I'm Gonzalo!, a Data Scientist 👋
+- 🔭 I’m currently working on pandemian covid-19 predictor and classifier
+- Also, I worked in proyects like Lineal Regretions to predict the price of propieties and Recommendation System 
+- 🌱 I’m currently learning Dash with python
+- 📫 How to reach me: gonzalogperez@gmail.com
 <!--
 **gonzalogperez/gonzalogperez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on pandemian covid predictor
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
