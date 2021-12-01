@@ -1,7 +1,7 @@
 ### Hi, I'm Gonzalo!, a Data Scientist 👋
 - 🔭 I’m currently working on pandemian covid-19 predictor and classifier
 - Also, I worked in proyects like Lineal Regretions to predict the price of propieties and Recommendation System 
-- 🌱 I’m currently learning Dash with python
+- 🌱 I’m currently learning Dash with python (Python Dashboards)
 - 📫 How to reach me: gonzalogperez@gmail.com
 <!--
 **gonzalogperez/gonzalogperez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
